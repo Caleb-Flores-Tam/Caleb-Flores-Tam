@@ -21,10 +21,16 @@
 
 ## 🛠️ Mis Skills
 
+<div align="Center">
+	
 | Website | Programming |
 | ------------- | ------------- |
 | <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,angular,figma"/> | <img src="https://skillicons.dev/icons?i=kotlin,vscode,maven,visualstudio,sublime,github,cs,swift,spring"/> |
-| ------------- | ------------- |
-## 🛠️ Mis Skills
+
+
+</div>
+<div align="Center">
 | Database |
+| ------------- | ------------- |
 | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/>
+</div>
