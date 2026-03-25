@@ -25,7 +25,7 @@
 	
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,angular,figma"/> | <img src="https://skillicons.dev/icons?i=vscode,maven,github,cs,swift,spring"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,angular,figma"/> | <img src="https://skillicons.dev/icons?i=vscode,maven,visualstudio,github,cs,swift,spring"/> |
 
 
 </div>
