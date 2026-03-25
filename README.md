@@ -32,5 +32,5 @@
 <div align="Center">
 | Database |
 | ------------- |
-| <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/>
+| <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/> |
 </div>
